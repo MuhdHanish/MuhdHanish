@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhd Hanish</h1>
-# 💫 About Me:
+
 - I'm a MERN stack developer<br>- UI designer<br>- I'm only 18
 
 
