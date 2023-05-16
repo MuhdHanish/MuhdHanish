@@ -1,21 +1,161 @@
-<div  align="center">
-<h1>Hi 👋, I'm Muhd Hanish</h1>
+<h1 align="center">𝓗𝓲𝓲 , 𝓘'𝓶 𝓗𝓪𝓷𝓲𝓼𝓱 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mern+Stack+Developer" alt="Typing SVG" /></a>
+</p>
 
-- I'm a MERN stack developer<br>- UI designer<br>- I'm only 18
+<br>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MuhdHanish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhdhanish) 
+<br><br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhdHanish&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhdHanish&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhdHanish&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- :school: I am a `+2 Passed Student`.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Mern Stack Development` .
+- :nerd_face: Always `keen to learn and develop new things`.
+  <br>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhdhanish/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/muhd_hanish/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>&nbsp;&nbsp;
+</p>
+
+## 🛠️ My Skills
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture>
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
+
+<br>
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" />
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
+
+ <br>
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.icons8.com/color/56/git.png"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.icons8.com/nolan/56/github.png"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.icons8.com/color/56/google-sheets.png"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/56/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.icons8.com/color/56/GeeksforGeeks.png"></a>
+  &emsp;
+    <a href="#"><img src="https://img.icons8.com/fluency/56/mysql-logo.png"/></a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> IDEs
+
+ <br>
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/56/visual-studio-code-2019.png"></a>
+  &emsp;
+    <a href="#"><img alt="Atom" src="https://img.icons8.com/emoji/56/atom-symbol-emoji.png" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.icons8.com/officel/56/java-eclipse.png" /></a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> </picture> Operating Systems
+
+ <br>
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.icons8.com/color/56/windows-10.png"></a>
+</p>
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuhdHanish&icon=0&color=0)](https://visitcount.itsvg.in)
-  </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+---
+
+<p align="center">
+	    <img alt="MuhdHanish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuhdHanish&show_icons=true&count_private=true&locale=en&theme=radical&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhdHanish&langs_count=10&show_icons=true&locale=en&theme=radical" alt="7oSkaaa" height="230px"/>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+---
+
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhdHanish&theme=radical)]
+
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+---
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanjaiman1&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="amanjaiman1" /></a> </p>
+
+</br></br>
+
+## My Contributions Graph
+
+<p align = "center">
+	<img src = "https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg"/>
+</p>
+
