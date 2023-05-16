@@ -10,14 +10,15 @@
 
 <br><br>
 
- :school: I am a `+2 Passed Student`.
- :technologist: I love using Software as a solution for every `Problem`.
- :student: I’m currently learning `Mern Stack Development` .
- :nerd_face: Always `keen to learn and develop new things`.
+- :school: I am a `+2 Passed Student`.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Mern Stack Development` .
+- :nerd_face: Always `keen to learn and develop new things`.
   <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MuhdHanish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhdhanish)
+<a href="https://www.linkedin.com/in/muhdhanish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-muhdhanish-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/muhd_hanish" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/muhd_hanish-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
 ## 🛠️ My Skills
