@@ -143,16 +143,6 @@
 
 [![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhdHanish&theme=radical)]
 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
----
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanjaiman1&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="amanjaiman1" /></a> </p>
-
-</br></br>
-
 ## My Contributions Graph
 
 <p align = "center">
