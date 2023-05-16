@@ -117,11 +117,6 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----
-
-</details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
@@ -132,20 +127,21 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhdHanish&langs_count=10&show_icons=true&locale=en&theme=radical" alt="7oSkaaa" height="230px"/>
 <br/>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<details>
 
+## My Contributions Graph
 ---
 
 [![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhdHanish&theme=radical)]
 
-## My Contributions Graph
+</details>
+
+</br></br>
 
 <p align = "center">
 	<img src = "https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
