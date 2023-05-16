@@ -10,21 +10,15 @@
 
 <br><br>
 
-- :school: I am a `+2 Passed Student`.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Mern Stack Development` .
-- :nerd_face: Always `keen to learn and develop new things`.
+ :school: I am a `+2 Passed Student`.
+ :technologist: I love using Software as a solution for every `Problem`.
+ :student: I’m currently learning `Mern Stack Development` .
+ :nerd_face: Always `keen to learn and develop new things`.
   <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhdhanish/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/muhd_hanish/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>&nbsp;&nbsp;
+	## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
+        [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MuhdHanish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhdhanish)
 </p>
 
 ## 🛠️ My Skills
