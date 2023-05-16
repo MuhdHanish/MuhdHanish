@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhd Hanish</h1>
+<div  align="center">
+<h1>Hi 👋, I'm Muhd Hanish</h1>
 
 - I'm a MERN stack developer<br>- UI designer<br>- I'm only 18
 
@@ -15,5 +16,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhdHanish&icon=0&color=0)](https://visitcount.itsvg.in)
+  </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
