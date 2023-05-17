@@ -40,15 +40,10 @@
 
 
 
-## My Contributions Graph
 
 
-![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhdHanish&theme=radical)
 
 
-</br></br>
 
-<p align = "center">
-	<img src = "https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg"/>
-</p>
+
 </div>
