@@ -7,10 +7,10 @@
 
 <br><br>
 
-- :school: I am a `+2 Passed Student`.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Mern Stack Development` .
-- :nerd_face: Always `keen to learn and develop new things`.
+- :𝙨𝙘𝙝𝙤𝙤𝙡: 𝙄 𝙖𝙢 𝙖 `+2 𝙋𝙖𝙨𝙨𝙚𝙙 𝙎𝙩𝙪𝙙𝙚𝙣𝙩`.
+- :𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙨𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙪𝙨𝙞𝙣𝙜 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙖𝙨 𝙖 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣 𝙛𝙤𝙧 𝙚𝙫𝙚𝙧𝙮 `𝙋𝙧𝙤𝙗𝙡𝙚𝙢`.
+- :𝙨𝙩𝙪𝙙𝙚𝙣𝙩: 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 `𝙈𝙚𝙧𝙣 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩` . 
+- :𝙣𝙚𝙧𝙙_𝙛𝙖𝙘𝙚: 𝘼𝙡𝙬𝙖𝙮𝙨 `𝙠𝙚𝙚𝙣 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙖𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥 𝙣𝙚𝙬 𝙩𝙝𝙞𝙣𝙜𝙨`.
   <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
