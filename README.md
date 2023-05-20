@@ -13,10 +13,10 @@
 - :nerd_face: Always `keen to learn and develop new things`.
   <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> 
 <a href="https://www.linkedin.com/in/muhdhanish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-muhdhanish-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/muhd_hanish" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/muhd_hanish-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
+</picture>
 
 ## 🛠️ My Skills
 
