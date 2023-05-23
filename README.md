@@ -30,11 +30,14 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Reactrouter](https://img.shields.io/badge/reactrouter-%2300599C.svg?style=for-the-badge&logo=reactrouter&logoColor=cyan)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![datastructure](https://img.shields.io/badge/datastructure-%2300599C.svg?style=for-the-badge&logo=datastructure&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%2300599C.svg?style=for-the-badge&logo=firebase&logoColor=yellow)
+	
 
 
 	
