@@ -57,6 +57,7 @@
 ![datastructure](https://img.shields.io/badge/datastructure-%2300599C.svg?style=for-the-badge&logo=datastructure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%2300599C.svg?style=for-the-badge&logo=firebase&logoColor=yellow)
 	
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 <p align="center">
 <img alt="MuhdHanish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuhdHanish&show_icons=true&count_private=true&locale=en&theme=radical&layout=compact" height="230px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhdHanish&langs_count=10&show_icons=true&locale=en&theme=radical" alt="7oSkaaa" height="230px"/>
