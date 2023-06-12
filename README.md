@@ -13,10 +13,10 @@
   <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
-<a href="https://www.linkedin.com/in/muhdhanish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-muhdhanish-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/muhd_hanish" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/muhd_hanish-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/Hanish_muhd" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Hanish_muhd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-
+![LinkedIn]<a href="https://www.linkedin.com/in/muhdhanish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-muhdhanish-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+![Instagram]<a href="https://www.instagram.com/muhd_hanish" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/muhd_hanish-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+![StackoverFlow]<a href="https://stackoverflow.com/users/22058794/muhd-hanish" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Stackover%20Flow-FF6C37?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+![Telegram]<a href="https://t.me/Hanish_muhd" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Hanish_muhd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ## 🛠️ 𝙈𝙮 𝙎𝙠𝙞𝙡𝙡𝙨
 
