@@ -20,8 +20,7 @@
 <a href="https://stackoverflow.com/users/22058794/muhd-hanish" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/muhd%20hanish-FF6C37?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 <a href="https://t.me/Hanish_muhd" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Hanish_muhd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-<h1 align="center">## 🛠️ 𝙈𝙮 𝙏𝙤𝙤𝙡𝙨 </h1>
-
+## 🛠️ 𝙈𝙮 𝙏𝙤𝙤𝙡𝙨 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
