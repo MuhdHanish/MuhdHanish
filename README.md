@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Hanish</h1>
   <br>
-</div>
 
 <div align="left">
   <h2>About Me</h2>
