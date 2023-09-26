@@ -16,6 +16,7 @@
 <a href="https://www.instagram.com/muhd_hanish" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/muhd_hanish-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/22058794/muhd-hanish" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/muhd%20hanish-FF6C37?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 <a href="https://t.me/Hanish_muhd" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Hanish_muhd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
 ## 𝙈𝙮 𝙏𝙤𝙤𝙡𝙨 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -36,8 +37,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%2300599C.svg?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23121011.svg?&style=for-the-badge&logo=vercel&logoColor=white)
