@@ -18,6 +18,7 @@
 <a href="https://t.me/Hanish_muhd" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Hanish_muhd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ## 𝙈𝙮 𝙏𝙤𝙤𝙡𝙨 
+<marquee direction="right">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,4 +39,5 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23121011.svg?&style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</marquee>
 </div>
