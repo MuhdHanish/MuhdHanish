@@ -10,7 +10,7 @@
 <div align="left">
 - 𝘼𝙡𝙬𝙖𝙮𝙨 𝙠𝙚𝙚𝙣 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙖𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥 𝙣𝙚𝙬 𝙩𝙝𝙞𝙣𝙜𝙨.
 </div>
-  <br>
+<br>
   
 <a href="https://www.linkedin.com/in/muhdhanish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-muhdhanish-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/muhd_hanish" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/muhd_hanish-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
