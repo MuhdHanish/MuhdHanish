@@ -32,7 +32,7 @@
 ![Node.js](https://img.shields.io/badge/node%20js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun.js](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Nest.js](https://img.shields.io/badge/nest%20js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Hono](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
