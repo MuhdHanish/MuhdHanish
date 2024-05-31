@@ -27,7 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux.js](https://img.shields.io/badge/reduxjs-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSONwebtokens)
 ![Node.js](https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun.js](https://img.shields.io/badge/bunjs-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
