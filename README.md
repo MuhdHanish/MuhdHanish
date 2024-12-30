@@ -11,7 +11,7 @@
 - 𝘼𝙡𝙬𝙖𝙮𝙨 𝙠𝙚𝙚𝙣 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙖𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥 𝙣𝙚𝙬 𝙩𝙝𝙞𝙣𝙜𝙨.
 </div>
 <br>
-<img src="https://visitcount.itsvg.in/api?id=muhdhanish&icon=6&color=8" alt="Visitor Count"/>
+<!-- <img src="https://visitcount.itsvg.in/api?id=muhdhanish&icon=6&color=8" alt="Visitor Count"/> -->
 
 <div align="center">
 <a href="https://www.linkedin.com/in/muhdhanish" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
