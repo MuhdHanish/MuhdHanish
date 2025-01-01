@@ -15,8 +15,8 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/muhdhanish" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/hanish.dev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/22058794/muhd-hanish" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-FF6C37?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://www.instagram.com/hanish.dev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge"/></a>
+<a href="https://stackoverflow.com/users/22058794/muhd-hanish" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-FF6C37?style=for-the-badge"/></a>
 
 ## 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
